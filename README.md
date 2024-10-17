@@ -1,4 +1,4 @@
-## Hey!! 👋I'm Akash
+## Hey!! 👋I'm Akash Prasanna
 - 👨‍🎓 I’m a second year computer science and engineering student
 - 👀 I’m interested in cybersecurity and software development
 - 🌱 I’m currently learning DSA and Java
