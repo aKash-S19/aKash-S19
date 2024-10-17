@@ -12,7 +12,7 @@
   </a>
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm learning German and Japanese
+- ⚡ Fun fact: I'm learning German
 ---
 <!---
 aKash-S19/aKash-S19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
