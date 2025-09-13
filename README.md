@@ -1,5 +1,5 @@
 ## Hey!! 👋I'm Akash Prasanna
-- 👨‍🎓 I’m a second year computer science and engineering student
+- 👨‍🎓 I’m a third year computer science and engineering student
 - 👀 I’m interested in cybersecurity and software development
 - 🌱 I’m currently learning DSA and Java
 - 💞️ I’m looking to for Internships currently.
