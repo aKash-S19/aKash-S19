@@ -1,4 +1,15 @@
 ## Hey!! 👋I'm Akash Prasanna
+
+<h3 align="center">🚀 Pre-final Year B.E. CSE Student | Cyber Security |</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akash-S19&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akash-S19&theme=algolia&margin-w=10&margin-h=10" alt="Trophies" />
+  </a>
+</p>
+
+---
 - 👨‍🎓 I’m a third year computer science and engineering student
 - 👀 I’m interested in cybersecurity and software development
 - 🌱 I’m currently learning DSA and Java
@@ -13,6 +24,22 @@
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm learning German
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-S19&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akash-S19&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-S19&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 ---
 <!---
 aKash-S19/aKash-S19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
