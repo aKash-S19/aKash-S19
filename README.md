@@ -1,11 +1,6 @@
 ## Hey!! 👋I'm Akash Prasanna
 
-<h3 align="center">🚀 Pre-final Year B.E. CSE Student | Cyber Security |</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akash-S19&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
+<h3 align="center">3rd Year B.E. CSE Student | Cyber Security</h3>
 
 ---
 - 👨‍🎓 I’m a third year computer science and engineering student
@@ -19,16 +14,6 @@
   <a href="mailto:akashprasanna17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm learning German
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-S19&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 <!---
